@@ -24,11 +24,7 @@ The clock updates every second and uses dynamic DOM manipulation to create clock
 
 ---
 
-## 🖼️ Preview
 
-*(Add screenshot here if available)*  
-Example:  
-![Clock Screenshot](./images/clock-preview.png)
 
 ---
 
